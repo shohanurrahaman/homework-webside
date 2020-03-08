@@ -1,0 +1,89 @@
+body{font-family: 'Poppins',sens-serif ;
+    margin: 0px;
+    }
+    h1{font-size: 50px;}
+    h2{font-size: 40px;}
+    p{color: dimgray;}
+    .orange-highlight{color: tomato;}
+    .half-width{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    .half-width img{
+        width: 100%;
+     
+    }
+    
+    .top-banner{background-image: url("personal-website/latest-work-bg.png");
+                background-repeat: no-repeat;
+    }
+    section{height: 500px;
+        padding-bottom:150px;
+    }
+    
+    .link-button{
+        text-decoration: none;
+        background-color: tomato;
+        background-image: linear-gradient(45deg,lightsalmon tomato);
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: 700;
+    }
+    .dream-area{background-image:url(personal-website/latest-work-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: right;
+    }
+    .single-experience{
+        box-shadow: 10px 10px 40px gray;
+        border-radius: 5px;
+        height: 80%;
+        background-color: white;
+    }
+    .experience-area{
+        background-image: url(personal-website/latest-work-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+        height:100%;
+        width: 100%;
+       
+    }
+    .new-experience{height: 30%;
+        width: 30%;
+    
+    }
+    #full-stack{height: 40%;
+    width: 40%;
+ margin-block-end: 5%;
+
+}
+    .tex-center{text-align: center;}
+    .button{background-color:#fd076d;
+    height: 30%;
+    text-decoration-color: white;
+  
+  
+width: 80%;
+margin-top: 10%;
+margin-left: 10%;
+margin-right: 10%;
+border-radius: 10px;}
+.marjin{margin-top: 5%;}
+    .space{margin: 5%;}
+.color{color: white;}
+    
+    
+   
+    
+    
+ 
+   
+    
+  
+    footer p{text-align: center;
+        font-size: 12px;
+       margin-top: 30%;
+    }
+    footer{background-image: url(personal-website/footer-bg.png);}
